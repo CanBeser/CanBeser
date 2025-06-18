@@ -1,5 +1,5 @@
 -  Hi, I’m Can Beşer
--  I’m currently a freshman student at Bilkent University 
+-  I’m currently a junior student at Bilkent University as a mathematics undergraduate
 
 <!---
 CanBeser/CanBeser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
